@@ -1,4 +1,4 @@
-<b>Explanation on each file</b>:
+<c><b>Explanation on each file</b></c>:
 
 
 The first one that I presented in the class is the file named:
