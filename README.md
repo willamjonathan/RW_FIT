@@ -28,7 +28,7 @@ Member:
 <h1>Any other information:</h1><br>
   FIT moto: Your healthy solution.<br>
   Fit is a mobile phone and I used 413 px * 896 px as the standard size of the app, therefore ;
-  Please set the your screen to 413 px X 896 px ( If you are using pc, you can use developer tools ). <br>
+  Please set the your screen to 413 px * 896 px ( If you are using pc, you can use developer tools ). <br>
   Besides that, I also found a problem when using developer tools which is:<br>
   </t>-The cursor become rounded and my code for changing the cursor doesn't work.<br>
   </t>-The hover shadow box doesn't work too.<br>
