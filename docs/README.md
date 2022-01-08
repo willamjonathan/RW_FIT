@@ -8,4 +8,5 @@ The one named:
  "fit with binus logo poster" is our last result of the poster submission
 
 There's also our storyboard of the app, it's named:
- "storyboard fit"
+ "storyboard fit"<br>
+ The test-case is in the<br> Final Project : Test Case.docs file
