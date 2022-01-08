@@ -2,6 +2,7 @@
 <html lang='en'>
     <head>
         <style>
+            <!-- Setting the media with to a maximum of 414px -->
             @media(max-width:414px){
             body{
                 
@@ -66,7 +67,7 @@
                 background-color: #4A6572;
                 width:200px;
                 padding:10px;
-
+                <!-- The cursor will change to pointer -->
                 cursor: pointer;
                 border:3px solid black;
                 border-radius: 200px;
@@ -74,6 +75,7 @@
                 box-shadow:10px 10px#232F34 ;
             
             }
+            <!-- When the cursor hover, the box shadow will be gone -->
             div:hover{
                 box-shadow: none;
             }
@@ -86,7 +88,8 @@
                 width:200px;
                 padding:10px;
                 box-shadow:10px 10px#232F34;
-                cursor: pointer;
+                <!-- The cursor will change to pointer -->
+                cursor: pointer; 
                 border:3px solid black;
                 border-radius: 200px;
                 
@@ -119,7 +122,7 @@
         
         <meta charset="utf8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        //getting the icons for the page
+        <!-- Getting the icon script ( the forward and backward arrow) -->
         <script src="https://kit.fontawesome.com/7b0b641d05.js" crossorigin="anonymous"></script>
         <title> FIT </title>
     </head>
@@ -132,8 +135,9 @@
             <div class = "title"> FIT  </div>
             <div class ="subtitle"><b>YOUR HEALTHY SOLUTION</b></div>
             <div class = "login">
+        <!-- When login button is clicked, it will redirect you to another page -->
                 <b><a  href="https://willamjonathan.github.io/FP_2/" style="color:#f9aa33;text-decoration:none;">LOG IN</a></b></div>
-     
+        <!-- When signin button is clicked, there will be a pop up saying Please click the log in button -->
             <button onclick="alert('Please click the log in button')"><div class = "signin" style="color:#f9aa33;text-decoration:none;"><b>SIGN IN</b></div></button>
         </div>    
         <div class ="footer">
