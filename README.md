@@ -30,7 +30,7 @@ Member:
   Please set the your screen to 413 px * 896 px ( If you are using pc, you can use developer tools ). <br>
   Besides that, I also found a problem when using developer tools which is:<br>
   </t>-The cursor become rounded and my code for changing the cursor doesn't work.<br>
-  </t>-The hover shadow box doesn't work too.<br>
+  </t>-The hover shadow box doesn't work too, it becomes when clicked not hovered.<br>
   <b>Important</b>
   - All of the live link and code :<br>
   https://github.com/willamjonathan/FP_README<br>
