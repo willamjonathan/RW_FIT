@@ -10,4 +10,6 @@ The one named:
 There's also our storyboard of the app, it's named:
  "storyboard fit"<br>
  
- The test-case is in the<br>           Final Project : Test Case.docs file
+ The test-case is in the<br>           Final Project : Test Case.docs file<br>
+ - All of the live link and code :<br>
+  https://github.com/willamjonathan/FP_README<br>
